@@ -15,6 +15,7 @@ import com.shashi.service.impl.UserServiceImpl;
 /**
  * Servlet implementation class RegisterSrv
  */
+
 @WebServlet("/RegisterSrv")
 public class RegisterSrv extends HttpServlet {
 	private static final long serialVersionUID = 1L;
